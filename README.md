@@ -1,5 +1,5 @@
 # FoodyMe
-This is a Food ordering web application which lets user order food from the canteens inside Infosys and then take his food from the respective canteen by providing them the token number that was provided to the user after purchasing food 
+This is a Food ordering web application which lets user order food from the canteens inside Infosys and then take his food from the respective canteen by providing them the token number that was provided to the user after purchasing food.  
 Since it was a internship project for Infosys so I was not allowed to use the application publicly So i have attached the screenshots of the project below
 
 # ScreenShots
